@@ -56,13 +56,6 @@ Currently exploring **AI/ML**, backend systems, and modern frameworks while stre
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bibek317&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bibek317&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect
 
 - GitHub: https://github.com/Bibek317  
